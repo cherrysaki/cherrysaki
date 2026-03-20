@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning Swift
+まいにち開発めざす
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cherrysaki&layout=compact&theme=tokyonight">
 
