@@ -2,7 +2,7 @@
 🌱 I’m currently learning Swift
 まいにち開発めざす
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cherrysaki&layout=compact&theme=tokyonight">
+<img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cherrysaki&layout=compact&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cherrysaki&layout=compact&theme=tokyonight)">
 
 <!--
 **cherrysaki/cherrysaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
